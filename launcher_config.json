@@ -1,20 +1,8 @@
 {
     "clientVersion": "0.12",
     "launcherVersion": "1.0",
-    "launcherHash": "",
+    "launcherHash": "b0f1125ecfb3428826a95f2eb7410ca4fcee73332106c3fb7ed92bb52c3c09a6",
     "newLauncherUrl": "https://github.com/rigueiradev/hydraclientPUBLIC/releases/latest/download/HydraLauncher.exe",
-    "replaceFolders": true,
-    "replaceFolderName": [
-        {
-            "name": "assets"
-        },
-        {
-            "name": "storeimages"
-        },
-        {
-            "name": "bin"
-        }
-    ],
     "clientFolder": "Tibia",
     "newClientUrl": "https://github.com/rigueiradev/hydraclientPUBLIC/releases/latest/download/client.zip",
     "clientExecutable": "HydraClient.exe"
